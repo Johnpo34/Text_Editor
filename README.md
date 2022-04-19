@@ -1,11 +1,13 @@
 # Text_Editor
 
 # Description
-
+a text editor that is browser based.
 # Installation
 To install, you can visit my github and clone the repo.
 # Usage
+https://github.com/Johnpo34/Text_Editor
 
+https://johnpo34.github.io/Text_Editor/
 # Credits
 N/A
 # Resources
